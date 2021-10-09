@@ -19,4 +19,4 @@ Project is created with:
 IDE: Intellij IDEA 2020
 
 ## Sources
-This project was created .
+This project was created with the help from course on Udemy <a href="https://www.udemy.com/course/hands-on-spring-boot-course-build-a-fintech-app">Hands On Spring Boot Course - Build a FinTech App</a> by Mindaugas Barčauskas.
