@@ -1,5 +1,3 @@
-# fintech-app
-
 <h1 align="right">Fintech App</h1><br>
 
 ## Table of contents
