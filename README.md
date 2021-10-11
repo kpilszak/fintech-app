@@ -7,7 +7,7 @@
 
 ## General info
 This project is a Spring application.  
-The main purpose is to .  
+The main purpose is to create financial application.  
 
 ## Technologies
 Project is created with:
