@@ -7,7 +7,7 @@
 
 ## General info
 This project is a Spring application.  
-The main purpose is to create loan financial application.  
+The main purpose is to create a financial loan application.  
 
 ## Technologies
 Project is created with:
